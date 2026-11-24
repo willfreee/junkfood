@@ -1,0 +1,25 @@
+# `Willingly Free from Junk Food`
+
+- Brief Note: Why "Willingly Free"? `[0 subheadings]`
+- Chapter 1: No Rules Today `[0 subheadings]`
+- Chapter 2: The Engineered Trap `[0 subheadings]`
+- Chapter 3: What Actually Counts `[0 subheadings]`
+- Chapter 4: The Primitive Brain `[0 subheadings]`
+- Chapter 5: The Illusions `[0 subheadings]`
+- Chapter 6: Real Hunger `[0 subheadings]`
+- Chapter 7: Taste `[0 subheadings]`
+- Chapter 8: Liquid Sugar `[0 subheadings]`
+- Chapter 9: Treats `[0 subheadings]`
+- Chapter 10: Mental Crutches `[Umbrella + 3 ##: Stress, Boredom, Concentration]`
+- Chapter 11: Energy `[0 subheadings]`
+- Chapter 12: Practical Excuses `[Umbrella + 4 ##: Convenience, Cost, Kitchen Overload, Leftovers]`
+- Chapter 13: Social Life `[Umbrella + 4 ##: Commercial Rituals, Friends and Coworkers, Family Care, Travel]`
+- Chapter 14: Casual Eaters `[Intro + 5 ##: The Cheat-Meal Planner, The "I'm Skinny" Eater, The Health-Halo Snacker, The Social-Only Eater, The Leftover Grazer]`
+- Chapter 15: Moderation `[0 subheadings]`
+- Chapter 16: Willpower `[0 subheadings]`
+- Chapter 17: Substitutes `[0 subheadings]`
+- Chapter 18: False Incentives `[0 subheadings]`
+- Chapter 19: Just One Bite `[0 subheadings]`
+- Chapter 20: Slipping `[0 subheadings]`
+- Chapter 21: Environment `[0 subheadings]`
+- Chapter 22: Living Free `[0 subheadings]`
